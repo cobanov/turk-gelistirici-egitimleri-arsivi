@@ -1,8 +1,5 @@
 # Turk Gelistirici Egitimleri Arsivi
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81901edc-b003-4a1d-ab95-787a5c06bd58/Untitled.png)
-
-
 ## Motivasyon
 
 Turk Gelistirici Egitimleri Arsivinde amacimiz Turkiyede icerik ureten gelistiricilerin, sosyal medya uzerinde taninabilirligini artirirken, bu alana girmek isteyen insanlarin daha fazla turkce icerige ulasmasini saglayan ve ayni zamanda guzel bir arsiv olusturmayi amaclayan bir projedir.
@@ -13,8 +10,11 @@ Eger siz de projeye destek olmak ve icerik ureterek arsive katilmak isterseniz [
 
 Proje ile alakali hem iceriklere hem de daha detayli bilgilere [cobanov.com/tgea](http://cobanov.com/tgea) adresinden ulasabilirsiniz. 
 
-
 ## Egitimler
+
+
+
+
 | Isim                                                           | Konu                                               | Tarih      | Video |
 | -------------------------------------------------------------- | -------------------------------------------------- | ---------- | ----- |
 | [Mert Cobanov](https://twitter.com/mertcobanov)                | Python ve Prophet ile Zaman Serisi Analizi         | 31.10.2021 | ----- |
@@ -26,6 +26,12 @@ Proje ile alakali hem iceriklere hem de daha detayli bilgilere [cobanov.com/tgea
 | [Buse Yaren Tekin](https://youtube.com/buseyaren)              | Derin Öğrenme ve Sıfırdan Proje Geliştirme         | 21.11.2021 | ----- |
 | [Murat Can Kurtulus](https://youtube.com/makermotion)          | Konusma Tanima ve Gercek bir projede kullanimi     | 28.11.2021 | ----- |
 | [Fethi Tekyaygil](https://www.youtube.com/c/FethiTekyaygil)    | .NET Core API Katmanlı Mimari Uygulamas            | 28.11.2021 | ----- |
+
+
+## Youtube
+Videolara gorsellere tiklayarak da gidebilirsiniz!
+<p align="left"> <img src="assets/mert.png" height=150px> <img src="assets/irem.png" height=150px> </img></p>
+
 
 ## Egitmen Olmak Istiyorum Ne Yapmam Gerekiyor?
 
@@ -44,7 +50,7 @@ Egitim videolarini cekerken ekran kaydi araci ve mikrofon yeterli olacaktir. Bu 
 
 Kendinize inandiginiz, kendi tarzinizla takipci kitlenize ulasmak ve motivasyon kazanmak icin icinizden geldigi gibi 30 dakika ve 2 saat arasinda icerik uretebilirsiniz. 
 
-## Video Hazirlamada Dikkat Etmem Gereken Konular Nelerdir?
+### Video Hazirlamada Dikkat Etmem Gereken Konular Nelerdir?
 
 Kod ekranlari kisisel bilgisayarlarda ne kadar kucuk puntolu olarak kullanilsa da videolarda bu farkli ekranlarda problem yaratabiliyor, jupyter notebook kullaniyorsaniz %150 veya %175 oraninda buyutme, kod editorunde calisiyorsaniz da ekranin en azindan yarisindan fazlasinin bosluk kalmayacak sekilde yazilarin doldurdugundan emin olmaniz genellikle yeterlidir. 
 
