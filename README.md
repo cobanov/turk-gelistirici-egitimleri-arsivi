@@ -29,7 +29,12 @@ Eger siz de projeye destek olmak ve icerik ureterek arsive katilmak isterseniz [
 
 ## Youtube
 Videolara gorsellere tiklayarak da gidebilirsiniz!
-<p align="left"> <img src="assets/mert.png" height=150px></img> <img src="assets/irem.png" height=150px> </img></p>
+<p align="left"> 
+  <a href='https://youtu.be/gX6nZ7IINu8'> 
+  <img src="assets/mert.png" height=150px> 
+  </a> </img> 
+  <a href='https://www.youtube.com/watch?v=aUHoDeo3DFg'> <img src="assets/irem.png" height=150px> </img> </a> </p>
+
 
 
 ## Egitmen Olmak Istiyorum Ne Yapmam Gerekiyor?
