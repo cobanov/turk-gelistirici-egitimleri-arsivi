@@ -10,6 +10,7 @@ Eger siz de projeye destek olmak ve icerik ureterek arsive katilmak isterseniz [
 
 
 ## Egitimler
+Egitimlerin tamamina [Youtube Playlistinden](https://www.youtube.com/watch?v=XCj5tugcjHo&list=PLk54I7lqQSsbpShjcv3upA5LwMqyV9p27&ab_channel=MertCobanov) ulasabilirsiniz
 
 
 
