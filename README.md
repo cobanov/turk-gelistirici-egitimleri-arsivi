@@ -19,7 +19,7 @@ Egitimlerin tamamina [Youtube Playlistinden](https://www.youtube.com/watch?v=XCj
 | [Mert Cobanov](https://twitter.com/mertcobanov)                | Python ve Prophet ile Zaman Serisi Analizi         | 31.10.2021 | [Link](https://github.com/cobanov/time-series-analysis-prophet-youtube) |
 | [Irem Komurcu ](https://twitter.com/iremkomurcu)               | Görüntü Segmentasyonu                              | 31.10.2021 | [Link](https://youtu.be/aUHoDeo3DFg)                                                                   |
 | [Dogancan Mavideniz](https://twitter.com/dogancna)             | İlk SwiftUI Uygulamanı Geliştir                    | 07.11.2021 | [Link](https://youtu.be/Sn8jRej8M2I)                                                                   |
-| [Vusal Ismayilov](https://github.com/woosal1337)               | Image Gathering, Processing, Manipulation (OpenCV) | 07.11.2021 | [Link](https://youtu.be/ytsvnQpyFZg)                                                                   |
+| [Vusal Ismayilov](https://github.com/woosal1337)               | Image Gathering, Processing, Manipulation (OpenCV) | 14.11.2021 | [Link](https://youtu.be/ytsvnQpyFZg)                                                                   |
 | [Muhammed Emin Bal](https://www.youtube.com/c/MuhammedEminBal) | Python ile Web Scraping                            | 14.11.2021 | -----                                                                   |
 | [Samet Ozturk ](https://twittr.com/samozcan)                   | Deploying an ML Model with FastAPI on Kubernetes   | 21.11.2021 | -----                                                                   |
 | [Buse Yaren Tekin](https://youtube.com/buseyaren)              | Derin Öğrenme ve Sıfırdan Proje Geliştirme         | 21.11.2021 | -----                                                                   |
@@ -32,9 +32,23 @@ Egitimlerin tamamina [Youtube Playlistinden](https://www.youtube.com/watch?v=XCj
 Videolara gorsellere tiklayarak da gidebilirsiniz!
 <p align="left"> 
   <a href='https://youtu.be/gX6nZ7IINu8'> 
-  <img src="assets/mert.png" height=150px> 
-  </a> </img> 
-  <a href='https://www.youtube.com/watch?v=aUHoDeo3DFg'> <img src="assets/irem.png" height=150px> </img> </a> </p>
+    <img src="assets/mert.png" height=150px> 
+  </a> 
+  
+  <a href='https://www.youtube.com/watch?v=aUHoDeo3DFg'> 
+    <img src="assets/irem.png" height=150px> </img> 
+  </a> 
+  
+  <a href='https://youtu.be/Sn8jRej8M2I'> 
+    <img src="assets/dogancan.png" height=150px> </img> 
+  </a> 
+  
+  <a href='https://youtu.be/ytsvnQpyFZg'> 
+    <img src="assets/vusal.png" height=150px> </img> 
+  </a> 
+  
+  
+  </p>
 
 
 
