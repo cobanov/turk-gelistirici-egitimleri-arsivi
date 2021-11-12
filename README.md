@@ -25,7 +25,7 @@ Egitimlerin tamamina [Youtube Playlistinden](https://www.youtube.com/watch?v=XCj
 | [Buse Yaren Tekin](https://youtube.com/buseyaren)              | Derin Öğrenme ve Sıfırdan Proje Geliştirme         | 21.11.2021 | -----                                                                   |
 | [Murat Can Kurtulus](https://youtube.com/makermotion)          | Konusma Tanima ve Gercek bir projede kullanimi     | 28.11.2021 | -----                                                                   |
 | [Fethi Tekyaygil](https://www.youtube.com/c/FethiTekyaygil)    | .NET Core API Katmanlı Mimari Uygulamas            | 28.11.2021 | -----                                                                   |
-
+| [Yasar Niyazioglu](https://github.com/yasarniyazoglu)    | Yolov4 ile Custom Datasetlerde Nesne Tespiti ve Takibi   | 04.12.2021 | -----                                                                   |
 
 
 ## Youtube
