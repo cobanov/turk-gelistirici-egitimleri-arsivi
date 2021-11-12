@@ -14,7 +14,7 @@ Egitimlerin tamamina [Youtube Playlistinden](https://www.youtube.com/watch?v=XCj
 
 
 
-| Isim                                                           | Konu                                               | Tarih      | Repo                                                            |
+| Isim                                                           | Konu                                               | Tarih      | Video                                                            |
 | -------------------------------------------------------------- | -------------------------------------------------- | ---------- | ----------------------------------------------------------------------- |
 | [Mert Cobanov](https://twitter.com/mertcobanov)                | Python ve Prophet ile Zaman Serisi Analizi         | 31.10.2021 | [Link](https://github.com/cobanov/time-series-analysis-prophet-youtube) |
 | [Irem Komurcu ](https://twitter.com/iremkomurcu)               | Görüntü Segmentasyonu                              | 31.10.2021 | [Link](https://youtu.be/aUHoDeo3DFg)                                                                   |
