@@ -20,37 +20,12 @@ Egitimlerin tamamina [Youtube Playlistinden](https://www.youtube.com/watch?v=XCj
 | [Irem Komurcu ](https://twitter.com/iremkomurcu)               | Görüntü Segmentasyonu                              | 31.10.2021 | [Link](https://youtu.be/aUHoDeo3DFg)                                                                   |
 | [Dogancan Mavideniz](https://twitter.com/dogancna)             | İlk SwiftUI Uygulamanı Geliştir                    | 07.11.2021 | [Link](https://youtu.be/Sn8jRej8M2I)                                                                   |
 | [Vusal Ismayilov](https://github.com/woosal1337)               | Image Gathering, Processing, Manipulation (OpenCV) | 14.11.2021 | [Link](https://youtu.be/ytsvnQpyFZg)                                                                   |
-| [Muhammed Emin Bal](https://www.youtube.com/c/MuhammedEminBal) | Python ile Web Scraping                            | 14.11.2021 | -----                                                                   |
-| [Samet Ozturk ](https://twittr.com/samozcan)                   | Deploying an ML Model with FastAPI on Kubernetes   | 21.11.2021 | -----                                                                   |
-| [Buse Yaren Tekin](https://youtube.com/buseyaren)              | Derin Öğrenme ve Sıfırdan Proje Geliştirme         | 21.11.2021 | -----                                                                   |
+| [Muhammed Emin Bal](https://www.youtube.com/c/MuhammedEminBal) | Python ile Web Scraping                            | 14.11.2021 | [Link](https://youtu.be/IDTTwo8Kymk)                                                                   |
+| [Buse Yaren Tekin](https://youtube.com/buseyaren)              | Derin Öğrenme ve Sıfırdan Proje Geliştirme         | 27.11.2021 | [Link](https://youtu.be/qpEybki4G7A)                                                                   |
+| [Samet Ozturk ](https://twitter.com/samozcan)                   | Deploying an ML Model with FastAPI on Kubernetes   | 3.12.2021 | [Link](https://youtu.be/kvfZjOmsQF4)                                                                   |
 | [Murat Can Kurtulus](https://youtube.com/makermotion)          | Konusma Tanima ve Gercek bir projede kullanimi     | 28.11.2021 | -----                                                                   |
 | [Fethi Tekyaygil](https://www.youtube.com/c/FethiTekyaygil)    | .NET Core API Katmanlı Mimari Uygulamas            | 28.11.2021 | -----                                                                   |
 | [Yasar Niyazioglu](https://github.com/yasarniyazoglu)    | Yolov4 ile Custom Datasetlerde Nesne Tespiti ve Takibi   | 04.12.2021 | -----                                                                   |
-
-
-## Youtube
-Videolara gorsellere tiklayarak da gidebilirsiniz!
-<p align="left"> 
-  <a href='https://youtu.be/gX6nZ7IINu8'> 
-    <img src="assets/mert.png" height=150px> 
-  </a> 
-  
-  <a href='https://www.youtube.com/watch?v=aUHoDeo3DFg'> 
-    <img src="assets/irem.png" height=150px> </img> 
-  </a> 
-  
-  <a href='https://youtu.be/Sn8jRej8M2I'> 
-    <img src="assets/dogancan.png" height=150px> </img> 
-  </a> 
-  
-  <a href='https://youtu.be/ytsvnQpyFZg'> 
-    <img src="assets/vusal.png" height=150px> </img> 
-  </a> 
-  
-  
-  </p>
-
-
 
 ## Egitmen Olmak Istiyorum Ne Yapmam Gerekiyor?
 
