@@ -50,7 +50,7 @@ Kod ekranlari kisisel bilgisayarlarda ne kadar kucuk puntolu olarak kullanilsa d
 
 Videodaki gereksiz bosluklari kirpmaniz egitimi dinleyen insanlar tarafindan daha akici bir egitim deneyimiyle karsilasmalari icin iyi olacaktir.
 
-
+[Aytac Ibrahimova](https://github.com/AytacIbrhmva)
 
 
 
